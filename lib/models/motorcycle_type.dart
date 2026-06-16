@@ -1,0 +1,1 @@
+enum MotorcycleType { sport, cruiser, adventure, naked }
